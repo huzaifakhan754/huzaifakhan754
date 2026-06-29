@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Huzaifa Khan</h1>
 
-<!--
-**huzaifakhan754/huzaifakhan754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Laravel Developer from Pakistan 🇵🇰</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 PHP • Laravel • MySQL • REST APIs • Bootstrap
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **Advanced Laravel**
+- 💼 Looking for **Laravel Internship / Junior Laravel Developer**
+- 🚀 Passionate about building web applications
+- 📍 Karachi, Pakistan
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,bootstrap,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=huzaifakhan754&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=huzaifakhan754&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifakhan754&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
