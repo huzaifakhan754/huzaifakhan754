@@ -30,6 +30,9 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=huzaifakhan754&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## 📊 GitHub Stats
 
@@ -43,5 +46,11 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
+<p align="center">
+<a href="https://github.com/huzaifakhan754"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+
+[![Huzaifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifakhan754&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
